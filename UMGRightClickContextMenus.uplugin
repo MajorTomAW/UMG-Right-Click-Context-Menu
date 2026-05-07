@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UMG Right-Click Context Menus",
+	"Description": "Unreal Engine plugin that adds Right-Click Context Menu anchors that can be used in UMG widgets to generate Context Menus.",
+	"Category": "UI",
+	"CreatedBy": "MajorT",
+	"CreatedByURL": "https://github.com/MajorTomAW",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UMGRightClickContextMenus",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
